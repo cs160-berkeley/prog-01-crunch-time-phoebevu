@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Crunch Time</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="tabs">
+        <item>Activity Converter</item>
+        <item>Calorie Converter</item>
+        <!--<item>TAB 3</item>-->
+    </string-array>
+    <string-array name="category_array">
+        <item>Please choose your activity</item>
+        <item>Push Up</item>
+        <item>Sit Up</item>
+        <item>Squats</item>
+        <item>Leg-lifting</item>
+        <item>Plank</item>
+        <item>Jumping Jack</item>
+        <item>Pull Up</item>
+        <item>Cycling</item>
+        <item>Walking</item>
+        <item>Jogging</item>
+        <item>Swimming</item>
+        <item>Stair-Climbing</item>
+    </string-array>
+</resources>
